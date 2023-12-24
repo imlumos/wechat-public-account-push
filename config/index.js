@@ -33,40 +33,40 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
+      id: "osU-C6b71UlTN9-yefU48G7jMDCY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "2EZNNYvU6pBDb3bNY3cdp-RuhFNRKAH3p9hn_PeZA0Q",
       // 所在省份
-      province: "广东",
+      province: "北京",
       // 所在城市
-      city: "肇庆",
+      city: "北京",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://ch5.818ps.com/h/4db1caed09aaa03e?s_level=1"
     }, 
-    {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+    // {
+    //   name: "老婆1", 
+    //   id: "",
+    //   useTemplateId: "",
+    //   province: "",
+    //   city: "",
+    //   openUrl: "https://wangxinleo.cn"
+    // }, 
+    // {
+    //   name: "老婆2",
+    //   id: "",
+    //   useTemplateId: "",
+    //   province: "",
+    //   city: "",
+    //   openUrl: "https://wangxinleo.cn"
+    // }, 
+    // {
+    //   name: "老婆3", 
+    //   id: "",
+    //   useTemplateId: "",
+    //   province: "",
+    //   city: "",
+    //   openUrl: "https://wangxinleo.cn"
+    // }, 
   ],
 
   /**
